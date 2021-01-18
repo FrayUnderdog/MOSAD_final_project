@@ -1,0 +1,4 @@
+target 'FinalApp' do
+	pod 'Masonry'
+end
+
